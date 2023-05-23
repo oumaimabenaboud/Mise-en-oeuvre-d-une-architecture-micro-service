@@ -22,7 +22,7 @@ Mise en oeuvre d'une architecture micro-service
 ![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/27283207-2ea0-4d23-bd0b-b2d602c5f473)
 6. Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service
 ![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/e46611a7-7ff8-467a-8cf0-43fa59c5e30b)
-![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/db73cd62-fa92-4ed8-9651-81ead60a76c5)
+![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/79c0bbdd-2c2a-44fb-9459-66cc7e810f8f)
 
 7. Créer un client Angular qui permet d’afficher une facture
 
