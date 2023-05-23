@@ -1,5 +1,6 @@
 package org.sid.billingservice.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -18,6 +19,9 @@ public class ProductItem {
     @JsonProperty(access= JsonProperty.Access.WRITE_ONLY)
     @ManyToOne
     private Bill bill;
+    @JsonIgnore
     @Transient
     private Product product;
+    @Transient
+    private String productName;
 }

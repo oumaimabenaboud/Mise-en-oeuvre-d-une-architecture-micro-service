@@ -1,5 +1,6 @@
 package org.sid.billingservice.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -16,6 +17,7 @@ public class Bill {
     private Date billingDate;
     @OneToMany(mappedBy = "bill")
     private Collection<ProductItem> productItems;
+    @JsonIgnore
     private Long customerID;
     @Transient
     private Customer customer;
