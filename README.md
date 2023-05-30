@@ -25,4 +25,10 @@ Mise en oeuvre d'une architecture micro-service
 ![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/79c0bbdd-2c2a-44fb-9459-66cc7e810f8f)
 
 7. Créer un client Angular qui permet d’afficher une facture
+    - Products
+![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/a1f034ed-9e72-45a1-bd86-4e63e9e16091)
+    - Customers
+![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/3523d32c-57da-440f-80f6-d841d92422b3)
+    - Bills
+![image](https://github.com/oumaimabenaboud/Mise-en-oeuvre-d-une-architecture-micro-service/assets/120368654/7d5834bf-522c-44b1-a8bf-abca9a3d913a)
 
